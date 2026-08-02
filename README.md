@@ -6,3 +6,5 @@ Dynamic array operations helper functions in JavaScript.
 Clone this project and look at the source files:
 - `index.js`
 - `array_utils.js`
+
+*Initialized by tylerxxxcampbell workspace automation.*
